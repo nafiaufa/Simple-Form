@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="cn">
+<html lang="id">
 <head>
     <title>form data</title>
 </head>
